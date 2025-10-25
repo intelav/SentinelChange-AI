@@ -1,0 +1,37 @@
+ Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+.venv/
+env/
+*.egg-info/
+build/
+dist/
+
+# Jupyter / temp files
+.ipynb_checkpoints/
+*.log
+*.tmp
+
+
+# Profiling / run outputs
+runs/
+output/
+logs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Model checkpoints, datasets, large binaries
+*.pth
+*.pt
+*.ckpt
+*.npy
+*.npz
+*.zip
+*.tar
+*.tar.gz
+
