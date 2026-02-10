@@ -29,6 +29,9 @@ Beyond accuracy, this repository emphasizes **GPU acceleration, profiling, and w
 - 📊 **Benchmark-grade workloads** for Nsight profiling and GPU efficiency studies  
 
 ---
+##  Summary
+We use ChangeStar to learn change as semantic inconsistency under symmetry constraints.
+We then bootstrap high-quality labels using SAM, and finetune supervised models for large-scale satellite inference.
 
 ## 🧭 Attribution
 
